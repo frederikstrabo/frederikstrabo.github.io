@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-My research interests lie at the intersection of natural resources and environmental economics. My dissertation explores the role of forest management practices in mitigating the economic costs of wildfires and climate-ready commercial fishery management.
+I am a Ph.D. Candidate in the Agricultural and Resource Economics department at the University of California, Davis. My research interests lie at the intersection of natural resource and environmental economics. I study how forest management practices, such as prescribed fires and mechanical thinning, can mitigate the economic costs of wildfires. I also study climate-ready commercial fishery management.
 
 Prior to Davis, I earned my M.A. in economics from the University of Southern California and a B.A. in economics and psychology from the University of Wisconsin-Madison.
