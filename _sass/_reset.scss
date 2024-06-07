@@ -7,11 +7,8 @@
 html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
-  background-image: url(https://knowyourforest.org/sites/default/files/headers/Forest_health_banner.jpg);
-  background-size: 100%;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;  font-size: 16px;
+  background-color: $background-color;
+  font-size: 16px;
 
   @include breakpoint($medium) {
     font-size: 18px;
