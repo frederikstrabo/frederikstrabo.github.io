@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: 
 venue: "University of California, Davis, Agricultural & Resource Economics"
-date: "-"
+date: 0000-00-00
 location: "Davis, CA"
 ---
 
