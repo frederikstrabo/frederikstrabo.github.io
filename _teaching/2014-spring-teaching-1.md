@@ -1,7 +1,7 @@
 ---
-title: "Teaching Experience"
+title: "Teaching Assistant (TA)"
 collection: teaching
-type: "Teaching Assistant (TA)"
+type: ""
 permalink: 
 venue: "University of California, Davis, Agricultural & Resource Economics"
 date: "-"
