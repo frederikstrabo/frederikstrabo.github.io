@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Frederik Strabo"
 description              : &description "PhD Student"
 url                      : https://frederik-strabo.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://fstrabo.github.io/" # the subpath of your site, e.g. "/blog"
 repository               : "fstrabo/frederik-strabo.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
