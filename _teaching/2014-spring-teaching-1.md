@@ -3,6 +3,7 @@ title: "Teaching Assistant (TA)"
 collection: teaching
 venue: "University of California, Davis, Agricultural & Resource Economics"
 location: "Davis, CA"
+permalink: /
 date: 2021-09-01
 ---
 
