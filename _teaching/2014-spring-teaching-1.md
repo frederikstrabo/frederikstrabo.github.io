@@ -1,8 +1,6 @@
 ---
 title: "Teaching Assistant (TA)"
 collection: teaching
-type: ""
-permalink: 
 venue: "University of California, Davis, Agricultural & Resource Economics"
 location: "Davis, CA"
 ---
