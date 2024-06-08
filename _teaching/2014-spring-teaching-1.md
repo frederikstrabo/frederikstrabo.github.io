@@ -4,7 +4,7 @@ collection: teaching
 type: "Business, Government Regulation & Society (ARE 146)"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of California, Davis, Agricultural & Resource Economics"
-date: Winter 2021
+date: "Winter 2021"
 location: "Davis, CA"
 ---
 
