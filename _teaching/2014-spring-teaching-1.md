@@ -1,9 +1,18 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Business, Government Regulation & Society (ARE 146)"
+type: 
 permalink: 
 venue: "University of California, Davis, Agricultural & Resource Economics"
-date: 2021-01-01
+date: 
 location: "Davis, CA"
 ---
+
+Business, Government Regulation & Society (ARE 146) - Winter 2021
+======
+
+Heading 2
+======
+
+Heading 3
+======
