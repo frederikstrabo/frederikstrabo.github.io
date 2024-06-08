@@ -1,18 +1,9 @@
 ---
-title: "Teaching Assistant (TA)"
+title: "Teaching Assistant"
 collection: teaching
-venue: "University of California, Davis, Agricultural & Resource Economics"
-location: "Davis, CA"
+type: "Business, Government Regulation & Society (ARE 146)"
 permalink: /
-date: 2021-09-01
+venue: "University of California, Davis, Agricultural & Resource Economics"
+date: 2021-01-01
+location: "Davis, CA"
 ---
-
-Operations Research & Management (ARE 155) - Fall, 2021
-======
-
-Business, Government Regulation & Society (ARE 146) - Winter, 2021
-======
-
-Heading 3
-======
-
