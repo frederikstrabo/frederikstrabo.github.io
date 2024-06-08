@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant (TA)"
 permalink: 
 venue: "University of California, Davis, Agricultural & Resource Economics"
-date: 
+date: 2021-09-01
 location: "Davis, CA"
 ---
 
