@@ -7,11 +7,8 @@ venue: "University of California, Davis, Agricultural & Resource Economics"
 location: "Davis, CA"
 ---
 
-Business, Government Regulation & Society (ARE 146) - Winter 2021
+Operations Research & Management (ARE 155) - Fall, 2021
 ======
 
-Heading 2
-======
-
-Heading 3
+Business, Government Regulation & Society (ARE 146) - Winter, 2021
 ======
