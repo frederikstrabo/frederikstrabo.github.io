@@ -11,4 +11,4 @@ I am a Ph.D. Candidate in the Agricultural and Resource Economics department at 
 
 Prior to Davis, I earned my M.A. in economics from the University of Southern California and a B.A. in economics and psychology from the University of Wisconsin-Madison.
 
-I am on the job market during the 2024-25 academic year. You can reach me at ftstrabo@ucdavis.edu
+I am on the job market during the 2024-25 academic year. You can reach me at [**ftstrabo@ucdavis.edu**]{color="blue"}
