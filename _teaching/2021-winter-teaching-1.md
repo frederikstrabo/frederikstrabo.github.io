@@ -8,6 +8,6 @@ date: 2021-01-01
 location: "Davis, CA"
 ---
 
-[Course Evaluations](/files/ARE146_Eval.pdf)
+[Course Evaluations](https://fstrabo.github.io/frederik-strabo.github.io/files/ARE146_Eval.pdf)
 
 Course Description: Variety, nature and impact of government regulation: anti-trust laws and economic and social regulation. Nature of the legislative process, promulgation of regulations, and their impact, especially as analyzed by economists.
