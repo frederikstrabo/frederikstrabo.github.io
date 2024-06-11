@@ -8,6 +8,6 @@ date: 2021-09-01
 location: "Davis, CA"
 ---
 
-[Course Evaluations](https://fstrabo.github.io/frederik-strabo.github.io/files/ARE155_Eval.pdf)
+[Course Evaluations](https://frederik-strabo.github.io/files/ARE155_Eval.pdf)
 
 Course Description: Introduction to quantitative methods used to analyze business and economic processes: decision analysis for management, mathematical programming, competitive analysis, and other methods.
