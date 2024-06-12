@@ -1,7 +1,7 @@
 ---
 title: "Wildfires, Fuel Treatments, & Spotted Owls: Identifying the Economic Benefits of Fuel Treatments Through the Northwest Forest Plan"
 collection: publications
-permalink: /publication/2024-06-12-paper-title-number-4
+permalink: /workingpapers/JMP
 paperurl: 'https://frederikstrabo.github.io/files/Strabo_JMP.pdf'
 ---
 
