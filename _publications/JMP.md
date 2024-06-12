@@ -5,7 +5,7 @@ permalink: /publication/2024-06-12-paper-title-number-4
 paperurl: 'https://fstrabo.github.io/frederik-strabo.github.io/files/Strabo_JMP.pdf'
 ---
 
-<div align="center">***Job Market Paper***
+<center><b>Job Market Paper</b></center>
 
 [Download Here](https://fstrabo.github.io/frederik-strabo.github.io/files/Strabo_JMP.pdf)
 
