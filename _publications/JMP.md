@@ -5,7 +5,7 @@ permalink: /publication/Strabo_JMP
 paperurl: 'https://frederikstrabo.github.io/files/Strabo_JMP.pdf'
 ---
 
-<center><b>Job Market Paper</b></center>
+<center><b>Job Market Paper</b></center> joint with Matthew Reimer
 
 [Download Here](https://frederikstrabo.github.io/files/Strabo_JMP.pdf)
 
