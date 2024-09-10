@@ -5,7 +5,7 @@ title: "Research"
 
 <center><b>Job Market Paper</b></center>
 
-<center><b>Do Fuel Treatments Mitigate the Cost of Wildfires? Evidence from the Northwest Forest Plan</b> with Matthew Reimer</center>
+<b>Do Fuel Treatments Mitigate the Cost of Wildfires? Evidence from the Northwest Forest Plan</b> with Matthew Reimer
 
 [Download Here](https://frederikstrabo.github.io/files/Strabo_JMP.pdf)
 
@@ -18,5 +18,5 @@ Increases in the frequency and magnitude of wildfires have resulted in significa
 <center><b>Other Works in Progress</b></center>
 
 
-<center><b>Who Benefits from Buyback Programs? Insights from the U.S. West Coast Groundfish Fishery</b> with Matthew Reimer and James Sanchirico</center>
+<b>Who Benefits from Buyback Programs? Insights from the U.S. West Coast Groundfish Fishery</b> with Matthew Reimer and James Sanchirico
 
