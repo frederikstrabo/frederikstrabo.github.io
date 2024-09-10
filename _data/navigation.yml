@@ -4,7 +4,7 @@ main:
     url: /files/CV.pdf
 
   - title: "Research"
-    url: /research/
+    url: /publications/
 
   # - title: "Publications"
   #   url: /working-papers/    

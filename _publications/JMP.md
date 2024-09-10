@@ -1,7 +1,7 @@
 ---
 title: "Do Fuel Treatments Mitigate the Cost of Wildfires? Evidence from the Northwest Forest Plan"
-collection: research
-permalink: /research/Strabo_JMP
+collection: publications
+permalink: /publications/Strabo_JMP
 paperurl: 'https://frederikstrabo.github.io/files/Strabo_JMP.pdf'
 ---
 
