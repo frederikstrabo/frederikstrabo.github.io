@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 
-<center><b style="font-size: 24px;">Job Market Paper</b></center>
+<center><b style="font-size: 24px; margin-bottom: 10px;">Job Market Paper</b></center>
 
 <!-- Add a smaller margin to control spacing -->
 
