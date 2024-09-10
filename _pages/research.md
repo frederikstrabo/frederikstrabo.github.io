@@ -5,7 +5,7 @@ title: "Research"
 
 <center><b style="font-size: 24px;">Job Market Paper</b></center>
 
-<br>
+<!-- Add a smaller margin to control spacing -->
 
 <center><b>Do Fuel Treatments Mitigate the Cost of Wildfires? Evidence from the Northwest Forest Plan</b> with Matthew Reimer</center>
 
