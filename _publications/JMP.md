@@ -1,11 +1,11 @@
 ---
 title: "Do Fuel Treatments Mitigate the Cost of Wildfires? Evidence from the Northwest Forest Plan"
-collection: publications
-permalink: /publication/Strabo_JMP
+collection: research
+permalink: /research/Strabo_JMP
 paperurl: 'https://frederikstrabo.github.io/files/Strabo_JMP.pdf'
 ---
 
-<center><b>Job Market Paper</b></center> joint with Matthew Reimer
+<center><b>Job Market Paper</b></center> with Matthew Reimer
 
 [Download Here](https://frederikstrabo.github.io/files/Strabo_JMP.pdf)
 
