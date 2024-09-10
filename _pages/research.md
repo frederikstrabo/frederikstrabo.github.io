@@ -3,7 +3,9 @@ permalink: /research/
 title: "Research"
 ---
 
-<center><b>Job Market Paper</b></center>
+<center><b style="font-size: 24px;">Job Market Paper</b></center>
+
+<br><br>  <!-- Add two line breaks for spacing -->
 
 <b>Do Fuel Treatments Mitigate the Cost of Wildfires? Evidence from the Northwest Forest Plan</b> with Matthew Reimer
 
