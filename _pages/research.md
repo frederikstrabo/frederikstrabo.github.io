@@ -27,7 +27,7 @@ Increases in the frequency and magnitude of wildfires have resulted in significa
 
 <center><b>Who Benefits from Buyback Programs? Insights from the U.S. West Coast Groundfish Fishery</b> with Matthew Reimer and James Sanchirico</center>
 
-
+<div style="margin-bottom: 20px;"></div>
 
 <center><b> Fighting Fire with Fire: Does Clean Air Policy Abate Prescribed Fires?</b> with Jamie Hansen-Lewis</center>
 
