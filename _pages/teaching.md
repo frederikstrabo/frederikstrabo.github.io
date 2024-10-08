@@ -8,8 +8,8 @@ title: "Teaching"
 </div>
 <!-- Add a smaller margin to control spacing -->
 
-<center><b>Business, Government Regulation & Society (ARE 146)</b> with Professor Katrina Jessoe</center>
 
+<center><b>Business, Government Regulation & Society (ARE 146)</b> with Professor Katrina Jessoe</center>
 
 Course Description: Variety, nature and impact of government regulation: anti-trust laws and economic and social regulation. Nature of the legislative process, promulgation of regulations, and their impact, especially as analyzed by economists.
 
