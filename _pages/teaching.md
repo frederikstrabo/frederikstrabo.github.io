@@ -17,20 +17,16 @@ title: "Teaching"
 
 <center><b>Business, Government Regulation & Society (ARE 146)</b> with Professor Katrina Jessoe</center>
 
-<br style="line-height: 0.1;">
+<b>Winter 2021
 
 Course Description: Variety, nature and impact of government regulation: anti-trust laws and economic and social regulation. Nature of the legislative process, promulgation of regulations, and their impact, especially as analyzed by economists.
 
-[Teaching Evaluations](https://frederikstrabo.github.io/files/ARE146_Evals.pdf)
+[Teaching Evaluations](https://frederikstrabo.github.io/files/ARE146_Evals.pdf) - Number of Students 175 
 
 <center><b>Operations Research & Management (ARE 155)</b> with Professor Bulat Gafarov</center>
 
-<br style="line-height: 0.1;">
-
 <b>Fall 2021
-
-<br style="line-height: 0.1;">
 
 Course Description: Introduction to quantitative methods used to analyze business and economic processes: decision analysis for management, mathematical programming, competitive analysis, and other methods.
 
-[Teaching Evaluations](https://frederikstrabo.github.io/files/ARE155_Evals.pdf)
+[Teaching Evaluations](https://frederikstrabo.github.io/files/ARE155_Evals.pdf) - Number of Students 60 
