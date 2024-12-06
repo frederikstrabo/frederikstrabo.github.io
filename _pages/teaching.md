@@ -15,7 +15,7 @@ title: "Teaching"
 <!-- Add a smaller margin to control spacing -->
 
 
-<center><b>Business, Government Regulation & Society (ARE 146) - Winter 2021</b> with Professor Katrina Jessoe</center>
+<b>Business, Government Regulation & Society (ARE 146) - Winter 2021</b> with Professor Katrina Jessoe
 
 <br>
 
@@ -25,7 +25,7 @@ Course Description: Variety, nature and impact of government regulation: anti-tr
 
 <br>
 
-<center><b>Operations Research & Management (ARE 155) - Fall 2021</b> with Professor Bulat Gafarov</center>
+<b>Operations Research & Management (ARE 155) - Fall 2021</b> with Professor Bulat Gafarov
 
 <br>
 
