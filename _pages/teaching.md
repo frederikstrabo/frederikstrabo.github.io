@@ -21,9 +21,9 @@ title: "Teaching"
 
 Course Description: Variety, nature and impact of government regulation: anti-trust laws and economic and social regulation. Nature of the legislative process, promulgation of regulations, and their impact, especially as analyzed by economists.
 
-<br>
-
 [Teaching Evaluation ARE 146](https://frederikstrabo.github.io/files/ARE146_Evals.pdf) - Number of Students 175 
+
+<br>
 
 <center><b>Operations Research & Management (ARE 155) - Fall 2021</b> with Professor Bulat Gafarov</center>
 
