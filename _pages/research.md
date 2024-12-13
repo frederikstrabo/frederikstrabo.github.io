@@ -31,7 +31,6 @@ A century of wildfire suppression policies have resulted in the build-up of comb
 
 <div style="margin-bottom: 20px;"></div>
 
-
 <center><b>Who Benefits from Buyback Programs? Insights from the U.S. West Coast Groundfish Fishery</b> with Matthew Reimer and James Sanchirico</center>
 
 <div style="margin-bottom: 20px;"></div>
