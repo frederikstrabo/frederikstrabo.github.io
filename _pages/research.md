@@ -12,7 +12,7 @@ title: "Research"
 
 [Download Here](https://frederikstrabo.github.io/files/Strabo_JMP.pdf)
 
-
+[Working Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5064565)
 
 
 ***Abstract***:
