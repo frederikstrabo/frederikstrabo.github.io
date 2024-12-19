@@ -25,7 +25,7 @@ loads in forests, increasing the size, severity, and costs of wildfires. This st
 
 
 <div style="text-align: center; font-size: 24px; font-weight: bold; margin-bottom: 20px;">
-  Other Works in Progress
+  Works in Progress
 </div>
 
 <center><b>Shaping the Landscape: Do Fuel Treatments Reduce Economic Damages From Large Wildfires?</b> with Calvin Bryan and Matthew Reimer</center>
