@@ -4,17 +4,26 @@ title: "Outreach"
 ---
 
 ### [The Forest Service’s Double-Counting Problem: Why Wildfire-Treatment Accounting Doesn’t Add Up](https://perc.org/2025/02/28/the-forest-services-double-counting-problem/)
-
-*Property Environment Research Center (PERC), with Sara Sutherland and Eric Edwards, February 28, 2025*
+<img src="https://perc.org/path-to-article-image.jpg" alt="Article Image" width="600">
+*Property Environment Research Center (PERC), with Sara Sutherland and Eric Edwards*
 
 
 ### [PERC Wildfire Risk Map](https://perc.org/2025/02/25/perc-wildfire-risk-map/)
+<img src="https://perc.org/path-to-article-image.jpg" alt="Article Image" width="600">
+*Property Environment Research Center (PERC), with Sara Sutherland and Eric Edwards*
 
-*Property Environment Research Center (PERC), with Sara Sutherland and Eric Edwards, February 25, 2025*
+- Link to map: [PERC Wildfire Risk Map](https://ucdavis.maps.arcgis.com/apps/webappviewer/index.html?id=3cbd29195cc64ae5a584e487358268fd)
 
-**Explore the interactive map:** [PERC Wildfire Risk Map Viewer](https://ucdavis.maps.arcgis.com/apps/webappviewer/index.html?id=3cbd29195cc64ae5a584e487358268fd)
+---
 
+### [Axios: West Wildfire Crisis Congressional District Map](https://www.axios.com/2025/02/26/west-wildfire-crisis-congressional-district-map)
+<img src="https://example.com/axios-article-image.jpg" alt="Axios Article Image" width="600">
+*Axios - February 2025*
 
-### [Mapping the West’s Wildfire Crisis by Congressional District](https://www.axios.com/2025/02/26/west-wildfire-crisis-congressional-district-map)
+- Link to article: [West Wildfire Crisis Congressional District Map](https://www.axios.com/2025/02/26/west-wildfire-crisis-congressional-district-map)
 
-*Axios, February 26, 2025*
+---
+
+### Interactive Wildfire Map
+<iframe src="https://ucdavis.maps.arcgis.com/apps/webappviewer/index.html?id=3cbd29195cc64ae5a584e487358268fd" 
+width="100%" height="400px" style="border:0;"></iframe>
