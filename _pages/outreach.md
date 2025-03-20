@@ -4,7 +4,11 @@ title: "Outreach"
 ---
 
 ### [The Forest Service’s Double-Counting Problem: Why Wildfire-Treatment Accounting Doesn’t Add Up](https://perc.org/2025/02/28/the-forest-services-double-counting-problem/)
-![Article Thumbnail](https://frederikstrabo.github.io/images/PERC1.jpg){width=600}
+
+<div style="max-width: 400px;">
+    <img src="/images/PERC1.jpg" alt="Article Thumbnail" style="width: 100%; height: auto;">
+</div>
+
 *Property Environment Research Center (PERC), with Sara Sutherland and Eric Edwards - February 2025*
 
 ### [PERC Wildfire Risk Map](https://perc.org/2025/02/25/perc-wildfire-risk-map/)
@@ -17,6 +21,7 @@ width="100%" height="400px" style="border:0;"></iframe>
 
 
 ### [Axios: West Wildfire Crisis Congressional District Map](https://www.axios.com/2025/02/26/west-wildfire-crisis-congressional-district-map)
+![Article Thumbnail](https://frederikstrabo.github.io/images/Axios.jpg){width=600}
 *Axios - February 2025*
 
 
