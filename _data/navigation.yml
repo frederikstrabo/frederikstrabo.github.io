@@ -6,9 +6,8 @@ main:
   - title: "Research"
     url: /research/
 
-  # - title: "Publications"
-  #   url: /working-papers/    
-
-  - title: "Teaching"
+    - title: "Teaching"
     url: /teaching/    
 
+   - title: "Public Outreach"
+     url: /public-outreach/  
