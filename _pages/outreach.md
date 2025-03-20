@@ -17,10 +17,7 @@ width="100%" height="400px" style="border:0;"></iframe>
 
 
 ### [Axios: West Wildfire Crisis Congressional District Map](https://www.axios.com/2025/02/26/west-wildfire-crisis-congressional-district-map)
-<img src="https://example.com/axios-article-image.jpg" alt="Axios Article Image" width="600">
 *Axios - February 2025*
 
-- Link to article: [West Wildfire Crisis Congressional District Map](https://www.axios.com/2025/02/26/west-wildfire-crisis-congressional-district-map)
 
----
 
