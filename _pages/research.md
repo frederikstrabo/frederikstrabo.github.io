@@ -23,12 +23,17 @@ loads in forests, increasing the size, severity, and costs of wildfires. This st
 ![](/images/IV_Intuition.png)
 
 
+<div style="text-align: center; font-size: 24px; font-weight: bold; margin-bottom: 20px;">
+  Working Papers
+</div>
+
+<div style="margin-bottom: 20px;"></div>
+
+<center><b>Wildfire damages and the cost-effective role of forest fuel treatments</b> with Calvin Bryan and Matthew Reimer</center>
 
 <div style="text-align: center; font-size: 24px; font-weight: bold; margin-bottom: 20px;">
   Works in Progress
 </div>
-
-<center><b>Shaping the Landscape: Do Fuel Treatments Reduce Economic Damages From Large Wildfires?</b> with Calvin Bryan and Matthew Reimer</center>
 
 <div style="margin-bottom: 20px;"></div>
 
