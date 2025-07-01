@@ -31,6 +31,12 @@ loads in forests, increasing the size, severity, and costs of wildfires. This st
 
 <center><b>Wildfire damages and the cost-effective role of forest fuel treatments</b> with Calvin Bryan and Matthew Reimer</center>
 
+[Download Here](https://frederikstrabo.github.io/files/ChapterIIDraft.pdf)
+
+***Abstract***:
+
+Wildfires have emerged as one of the most pressing environmental challenges of the 21st century, with far-reaching economic and ecological consequences. The buildup of combustible forest fuels is a key contributor to escalating wildfire risk, as decades of suppression policies have allowed fuels to accumulate well beyond historical levels. Although fuel-reduction treatments are central to wildfire risk management, they remain underutilized, in part due to a limited understanding of their economic benefits. Here, we provide large-scale empirical evidence on the cost-effectiveness of fuel treatments in mitigating wildfire damages. We integrate high-resolution data on wildfires, fuel treatments implemented by the U.S. Forest Service, suppression effort, and economic damages across the Western United States from 2017 to 2023. Using a quasi-experimental design, we find that fuel treatments significantly reduced wildfire spread and severity, avoiding an estimated $2.7 billion in damages by limiting structure loss, reducing CO\textsubscript{2} emissions, and lowering PM\textsubscript{2.5} exposure. We estimate each dollar invested in fuel treatments yields $3.42 in expected benefits. Larger treatments and prescribed burns are especially effective, suggesting that refinements to fuel treatment design could further enhance their impact. Our findings demonstrate the value of investing in fuel treatments and offer actionable insights for optimizing their implementation as wildfire risk intensifies.
+
 <div style="text-align: center; font-size: 24px; font-weight: bold; margin-bottom: 20px;">
   Works in Progress
 </div>
