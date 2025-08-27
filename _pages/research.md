@@ -17,8 +17,7 @@ title: "Research"
 
 ***Abstract***:
 
-A century of wildfire suppression policies has led to the build-up of combustible fuel
-loads in forests, increasing the size, severity, and costs of wildfires. This study explores whether fuel-reduction treatments decrease the cost of fighting wildfires. We investigate fires igniting on U.S. Forest Service land in the Pacific Northwest between 2006 and 2023, leveraging exogenous variation in fuel treatments arising from a system of protected areas designed to conserve the northern spotted owl, old-growth forest, and other endangered species. We find that fires starting in protected areas are less likely to occur close to fuel treatments and are more costly to suppress, on average. Conservative estimates suggest that four to seven dollars are saved in fire suppression costs for every dollar spent on fuel treatments. Our results suggest that environmental protections have increased the public burden of fighting wildfires and placed the species they were intended to protect at greater risk from wildfire. Taken together, these findings highlight the potential for reforming environmental protections to achieve both economic savings and conservation benefits.
+A century of wildfire suppression policies has led to the build-up of combustible fuel loads in forests, increasing the size, severity, and costs of wildfires. This study explores whether fuel-reduction treatments reduce wildfire suppression costs. Focusing on wildfires igniting on U.S. Forest Service lands in the Pacific Northwest, we leverage exogenous variation in protections for the Northern Spotted Owl that unintentionally restrict fuel treatments. Conservative estimates indicate that four to seven dollars are saved in suppression costs for every dollar spent on fuel treatments. Our results highlight the potential for reforming environmental protections to achieve economic savings and conservation benefits.
 
 ![](/images/IV_Intuition.png)
 
