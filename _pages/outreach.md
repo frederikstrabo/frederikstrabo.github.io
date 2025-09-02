@@ -3,6 +3,10 @@ permalink: /outreach/
 title: "Outreach"
 ---
 
+### [AFRC Podcast - Episode 48: Fuel Treatments:Smart Investments, Healthy Forests](https://open.spotify.com/episode/1qNfbXni9rFO7NF8UM6auM?si=6skgrQFUTxSKOgtYwkFAow)
+
+*American Forest Resource Council Podcast - August 2025*
+
 ### [The Forest Service’s Double-Counting Problem: Why Wildfire-Treatment Accounting Doesn’t Add Up](https://perc.org/2025/02/28/the-forest-services-double-counting-problem/)
 
 *Property Environment Research Center (PERC), with Sara Sutherland and Eric Edwards - February 2025*
