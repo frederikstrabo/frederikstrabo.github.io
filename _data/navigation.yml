@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
   - title: "CV"
     url: /files/CV.pdf
@@ -6,9 +6,8 @@ main:
   - title: "Research"
     url: /research/
 
-  # - title: "Publications"
-  #   url: /working-papers/    
-
   - title: "Teaching"
     url: /teaching/    
 
+  - title: "Outreach"
+    url: /outreach/   
