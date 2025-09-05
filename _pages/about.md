@@ -13,4 +13,4 @@ As an environmental and natural resource economist, I study how land-use practic
 
 Before joining UC Davis, I earned my M.A. in economics from the University of Southern California and a B.A. in economics and psychology from the University of Wisconsin-Madison. 
 
-I am actively seeking academic positions during the 2024-25 academic year. You can reach me at **ftstrabo@ucdavis.edu**
+I am actively seeking academic positions during the 2025-26 academic year. You can reach me at **ftstrabo@ucdavis.edu**
