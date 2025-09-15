@@ -53,7 +53,11 @@ Wildfires have emerged as one of the most pressing environmental challenges of t
 
 <center><b> Do Environmental Protection Reforms Yield Economic and Ecological Benefits? The Impact of the 2011 Revised Recovery Plan for the Northern Spotted Owl</b></center>
 
+<div style="margin-bottom: 20px;"></div>
+
 <center><b> Crowd In or Crowd Out? How Public Fuel Treatments Influence Private Wildfire Mitigation</b> with Matthew Reimer</center>
+
+<div style="margin-bottom: 20px;"></div>
 
 <center><b> Fighting Fire with Fire: Does Clean Air Policy Abate Prescribed Fires?</b> with Jamie Hansen-Lewis</center>
 
