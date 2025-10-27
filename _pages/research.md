@@ -30,8 +30,6 @@ A century of wildfire suppression policies has led to the build-up of combustibl
 
 <center><b>Wildfire damages and the cost-effective role of forest fuel treatments</b> with Calvin Bryan and Matthew Reimer</center>
 
-[Download Here](https://frederikstrabo.github.io/files/ChapterIIDraft.pdf)
-
 [Working Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5337929)
 
 ***Abstract***:
@@ -40,14 +38,19 @@ Wildfires have emerged as one of the most pressing environmental challenges of t
 
 ![](/images/CHII.png)
 
+<div style="margin-bottom: 20px;"></div>
+
+<center><b>Who Benefits from Buyback Programs? Insights from the U.S. West Coast Groundfish Fishery</b> with Matthew Reimer and James Sanchirico</center>
+
+[Working Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5668010)
+
+***Abstract***:
+
+Overextraction and excess capacity are longstanding challenges in natural resource industries. Capacity reduction programs are an increasingly common policy response designed to reduce capacity, reallocate access rights, and improve environmental and economic outcomes. Yet little is known about how such programs distribute benefits and costs among participants who remain in the industry. This paper estimates the benefits accruing from the U.S. Pacific Coast Groundfish Buyback Program, which retired over one-third of its vessel capacity through a voluntary $46 million reverse auction. Exploiting spatial variation in capacity reductions across ports within a difference-indifferences design, we find that active vessels operating in ports with larger relative reductions realized substantial revenue gains, while those elsewhere saw small or negligible gains. Conservative estimates suggest the program generated approximately $24.7 million in additional revenues net of variable costs and program fees over the first seven years, yielding approximately $5.25 in benefits per dollar paid in fees. However, returns varied widely depending on the degree of local capacity reduction. These findings demonstrate that while capacity reduction programs can yield significant economic gains, their uneven impacts raise important questions about program design and the balance between efficiency and equity.
 
 <div style="text-align: center; font-size: 24px; font-weight: bold; margin-bottom: 20px;">
   Works in Progress
 </div>
-
-<div style="margin-bottom: 20px;"></div>
-
-<center><b>Who Benefits from Buyback Programs? Insights from the U.S. West Coast Groundfish Fishery</b> with Matthew Reimer and James Sanchirico</center>
 
 <div style="margin-bottom: 20px;"></div>
 
