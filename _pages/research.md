@@ -40,7 +40,7 @@ Wildfires have emerged as one of the most pressing environmental challenges of t
 
 <div style="margin-bottom: 20px;"></div>
 
-<center><b>Who Benefits from Buyback Programs? Insights from the U.S. West Coast Groundfish Fishery</b> with Matthew Reimer and James Sanchirico</center>
+<center><b>Who benefits from capacity reduction programs? Insights from the U.S. Pacific Coast groundfish fishery</b> with Matthew Reimer and James Sanchirico</center>
 
 [Working Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5668010)
 
