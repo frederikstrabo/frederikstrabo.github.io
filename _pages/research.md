@@ -54,7 +54,7 @@ Overextraction and excess capacity are longstanding challenges in natural resour
 
 <div style="margin-bottom: 20px;"></div>
 
-<center><b> Balancing Species Protection and Wildfire Risk: Evidence from the Northern Spotted Owl Recovery Plan</b></center>
+<center><b> Balancing Species Protection and Wildfire Risk: Evidence from the Northern Spotted Owl Recovery Plan</b> with Matthew Reimer</center>
 
 <div style="margin-bottom: 20px;"></div>
 
