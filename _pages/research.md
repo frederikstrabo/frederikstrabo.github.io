@@ -54,11 +54,11 @@ Overextraction and excess capacity are longstanding challenges in natural resour
 
 <div style="margin-bottom: 20px;"></div>
 
-<center><b> Do Environmental Protection Reforms Yield Economic and Ecological Benefits? The Impact of the 2011 Revised Recovery Plan for the Northern Spotted Owl</b></center>
+<center><b> Balancing Species Protection and Wildfire Risk: Evidence from the Northern Spotted Owl Recovery Plan</b></center>
 
 <div style="margin-bottom: 20px;"></div>
 
-<center><b> Crowd In or Crowd Out? How Public Fuel Treatments Influence Private Wildfire Mitigation</b> with Matthew Reimer</center>
+<center><b> Private incentives for defensible space misalign with wildfire mitigation policy</b> with Matthew Reimer</center>
 
 <div style="margin-bottom: 20px;"></div>
 
