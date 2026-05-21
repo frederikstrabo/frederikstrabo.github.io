@@ -3,6 +3,10 @@ permalink: /outreach/
 title: "Outreach"
 ---
 
+### [PERC Report - Beyond Wildfire Suppression](https://perc.org/2026/05/07/beyond-wildfire-suppression/)
+
+*Property Environment Research Center (PERC), with Matthew Reimer - May 2026*
+
 ### [AFRC Podcast - Episode 48: Fuel Treatments:Smart Investments, Healthy Forests](https://open.spotify.com/episode/1qNfbXni9rFO7NF8UM6auM?si=6skgrQFUTxSKOgtYwkFAow)
 
 *American Forest Resource Council Podcast - August 2025*
