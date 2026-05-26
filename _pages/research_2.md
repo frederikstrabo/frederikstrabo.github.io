@@ -3,6 +3,10 @@ permalink: /research/
 title: "Research"
 ---
 
+## Publications
+
+
+
 <div style="text-align: center; font-size: 24px; font-weight: bold; margin-bottom: 20px;">
   Job Market Paper
 </div>
