@@ -57,6 +57,17 @@ summary {
   margin-right: 0.3rem;
 }
 
+.journal-badge {
+  display: inline-block;
+  background-color: #1f4e79;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin: 0 4px;
+}
+
 </style>
 
 ## Publications
@@ -74,7 +85,7 @@ Frederik Strabo, Calvin Bryan, and Matthew Reimer.
 </div>
 
 <div class="paper-links">
-<a href="https://www.science.org/doi/10.1126/science.aea6463">Journal Link</a>
+<a href="https://www.science.org/doi/10.1126/science.aea6463">Paper</a>
 </div>
 
 <div class="media-links">
@@ -114,7 +125,7 @@ forthcoming, 2026.
 </div>
 
 <div class="paper-links">
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5064565">Journal Link</a>
+<a href="https://doi.org/10.1093/ej/ueag037">Paper</a>
 </div>
 
 <div class="paper-summary">
