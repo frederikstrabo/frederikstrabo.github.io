@@ -77,10 +77,10 @@ summary {
 }
 
 .section-header {
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: 700;
-  margin-top: 2rem;
-  margin-bottom: 4rem;
+  margin-top: 3rem;
+  margin-bottom: 1.75rem;
 }
 
 </style>
