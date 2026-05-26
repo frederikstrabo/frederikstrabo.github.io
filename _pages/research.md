@@ -46,6 +46,17 @@ summary {
   margin-top: 1rem;
   border-radius: 6px;
 }
+
+.media-links {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+  color: #444;
+}
+
+.media-links a {
+  margin-right: 0.3rem;
+}
+
 </style>
 
 ## Publications
@@ -57,13 +68,22 @@ Wildfire damages and the cost-effective role of forest fuel treatments
 </div>
 
 <div class="paper-meta">
-Frederik Strabo, Calvin Bryan, and Matthew Reimer. <em>Science</em>, 2026.
+Frederik Strabo, Calvin Bryan, and Matthew Reimer.
+<span class="journal-badge">Science</span>
+392(6798): 629–635, 2026.
 </div>
 
 <div class="paper-links">
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5337929">SSRN</a>
 <a href="https://www.science.org/doi/10.1126/science.aea6463">Journal Link</a>
-<a href="#">Media Coverage</a>
+</div>
+
+<div class="media-links">
+  <strong>Media:</strong>
+  <a href="https://grist.org/solutions/how-controlled-burns-can-help-save-taxpayers-billions/">Grist</a>,
+  <a href="https://insideclimatenews.org/news/20052026/wildfire-management-prevents-carbon-emissions-and-billions-in-damages/">Inside Climate News</a>,
+  <a href="https://www.perc.org/2026/05/07/new-report-proactive-forest-management-delivers-up-to-6x-savings-and-billions-in-avoided-losses/">PERC</a>,
+  <a href="https://www.ucdavis.edu/climate/news/forest-fuel-treatments-reduce-wildfire-spread-prevent-28-billion-damage">UC Davis News</a>,
+  <a href="https://www.boisestatepublicradio.org/economy/2026-05-21/prescribed-fire-forest-service-suppression-perc">Boise State Public Radio</a>
 </div>
 
 
