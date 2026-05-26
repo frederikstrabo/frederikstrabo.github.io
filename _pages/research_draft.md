@@ -72,9 +72,6 @@ Frederik Strabo, Calvin Bryan, and Matthew Reimer. <em>Science</em>, 2026.
 <a href="#">Media Coverage</a>
 </div>
 
-<div class="paper-summary">
-Fuel treatments reduced wildfire spread and severity, avoiding an estimated $2.7 billion in damages across the western United States.
-</div>
 
 <details>
 <summary>Abstract</summary>
