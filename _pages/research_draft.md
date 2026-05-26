@@ -48,12 +48,6 @@ summary {
 }
 </style>
 
-## Research
-
-My research studies wildfire management, forest policy, and environmental regulation, with a focus on how public policy can reduce wildfire damages while accounting for economic incentives and ecological constraints.
-
----
-
 ## Publications
 
 <div class="paper-card">
