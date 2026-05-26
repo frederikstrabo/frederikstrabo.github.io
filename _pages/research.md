@@ -101,6 +101,42 @@ Wildfires are among the most pressing environmental challenges of the 21st centu
 </div>
 
 
+<div class="paper-card">
+
+<div class="paper-title">
+Before the Burn: The Economic Benefits of Fuel-Reduction Treatments in Wildfire-Prone Forests
+</div>
+
+<div class="paper-meta">
+Frederik Strabo and Matthew Reimer.
+<span class="journal-badge">The Economic Journal</span>
+forthcoming, 2026.
+</div>
+
+<div class="paper-links">
+<a href="https://frederikstrabo.github.io/files/Strabo_JMP.pdf">Paper</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5064565">Working Paper</a>
+</div>
+
+<div class="paper-summary">
+Fuel-reduction treatments substantially reduce wildfire suppression costs, with estimates suggesting four to seven dollars in avoided suppression expenditures for every dollar invested in treatment.
+</div>
+
+<details>
+<summary>Abstract</summary>
+
+<p>
+A century of wildfire suppression policies has led to the build-up of combustible fuel loads in forests, increasing the size, severity, and costs of wildfires. This study explores whether fuel-reduction treatments reduce wildfire suppression costs. Focusing on wildfires igniting on U.S. Forest Service lands in the Pacific Northwest, we leverage exogenous variation in protections for the Northern Spotted Owl that unintentionally restrict fuel treatments. Conservative estimates indicate that four to seven dollars are saved in suppression costs for every dollar spent on fuel treatments. Our results highlight the potential for reforming environmental protections to achieve economic savings and conservation benefits.
+</p>
+
+</details>
+
+<img class="paper-image" src="/images/IV_Intuition.png" alt="Instrumental variables strategy for fuel treatment analysis">
+
+</div>
+
+
+
 
 
 <!-- ---
