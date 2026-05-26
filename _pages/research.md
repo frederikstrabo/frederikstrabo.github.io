@@ -76,9 +76,18 @@ summary {
   margin: 0 4px;
 }
 
+.section-header {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
 </style>
 
-## Publications
+<div class="section-header">Publications</div>
+
+
 
 <div class="paper-card">
 
@@ -216,9 +225,7 @@ This paper studies whether private incentives for household defensible space inv
 <div style="margin-top: 2.5rem;"></div>
 
 
-## Works in Progress
-
-<div style="margin-top: 2.5rem;"></div>
+<div class="section-header">Works in Progress</div>
 
 
 <div class="paper-card">
