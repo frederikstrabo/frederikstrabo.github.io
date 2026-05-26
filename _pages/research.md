@@ -10,6 +10,14 @@ title: "Research"
   border-bottom: 1px solid #ddd;
 }
 
+.paper-card {
+  transition: transform 0.15s ease;
+}
+
+.paper-card:hover {
+  transform: translateY(-2px);
+}
+
 .paper-title {
   font-size: 1.15rem;
   font-weight: 700;
@@ -89,7 +97,7 @@ Frederik Strabo, Calvin Bryan, and Matthew Reimer.
 </div>
 
 <div class="paper-summary">
-Fuel treatments significantly reduced wildfire spread and severity, avoiding an estimated $2.8 billion in damages through reduced property loss, lower carbon emissions, and diminished smoke exposure, while generating $3.73 in expected benefits for every dollar invested.
+Fuel treatments significantly reduced wildfire spread and severity, avoiding an estimated $2.8 billion in damages through reduced property loss, carbon emissions, and smoke exposure while generating $3.73 in expected benefits per dollar invested.
 </div>
 
 <div class="media-links">
@@ -204,6 +212,8 @@ This paper studies whether private incentives for household defensible space inv
 
 
 
+
+<div style="margin-top: 2.5rem;"></div>
 
 
 ## Works in Progress
