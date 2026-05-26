@@ -88,6 +88,10 @@ Frederik Strabo, Calvin Bryan, and Matthew Reimer.
 <a href="https://www.science.org/doi/10.1126/science.aea6463">Paper</a>
 </div>
 
+<div class="paper-summary">
+Fuel treatments significantly reduced wildfire spread and severity, avoiding an estimated $2.8 billion in damages through reduced property loss, lower carbon emissions, and diminished smoke exposure, while generating $3.73 in expected benefits for every dollar invested.
+</div>
+
 <div class="media-links">
   <strong>Media:</strong>
   <a href="https://grist.org/solutions/how-controlled-burns-can-help-save-taxpayers-billions/">Grist</a>,
@@ -129,14 +133,14 @@ forthcoming, 2026.
 </div>
 
 <div class="paper-summary">
-Fuel-reduction treatments substantially reduce wildfire suppression costs, with estimates suggesting four to seven dollars in avoided suppression expenditures for every dollar invested in treatment.
+Fuel-reduction treatments substantially reduce wildfire suppression costs, with estimates suggesting five to six dollars in avoided suppression expenditures for every dollar invested in treatment.
 </div>
 
 <details>
 <summary>Abstract</summary>
 
 <p>
-A century of wildfire suppression policies has led to the build-up of combustible fuel loads in forests, increasing the size, severity, and costs of wildfires. This study explores whether fuel-reduction treatments reduce wildfire suppression costs. Focusing on wildfires igniting on U.S. Forest Service lands in the Pacific Northwest, we leverage exogenous variation in protections for the Northern Spotted Owl that unintentionally restrict fuel treatments. Conservative estimates indicate that four to seven dollars are saved in suppression costs for every dollar spent on fuel treatments. Our results highlight the potential for reforming environmental protections to achieve economic savings and conservation benefits.
+A century of wildfire suppression policies has led to the build-up of combustible fuel loads in forests, increasing the size, severity, and costs of wildfires. This study explores whether fuel-reduction treatments reduce wildfire suppression costs. Focusing on wildfires igniting on U.S. Forest Service lands in the Pacific Northwest, we leverage exogenous variation in protections for the Northern Spotted Owl that unintentionally restrict fuel treatments. Conservative estimates indicate that five to six dollars are saved in suppression costs for every dollar spent on fuel treatments. Our results highlight the potential for reforming environmental protections to achieve economic savings and conservation benefits.
 </p>
 
 </details>
@@ -161,6 +165,10 @@ forthcoming, 2026.
 
 <div class="paper-links">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5668010">Working Paper</a>
+</div>
+
+<div class="paper-summary">
+Capacity reduction programs can generate large economic returns for remaining industry participants, but the distribution of benefits depends critically on how reductions are allocated across space.
 </div>
 
 <details>
