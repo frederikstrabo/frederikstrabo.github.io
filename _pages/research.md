@@ -175,6 +175,82 @@ Overextraction and excess capacity are longstanding challenges in natural resour
 </div>
 
 
+<!-- ## Working Papers
+
+<div class="paper-card">
+
+<div class="paper-title">
+Private incentives for defensible space misalign with wildfire mitigation policy
+</div>
+
+<div class="paper-meta">
+Frederik Strabo and Matthew Reimer.
+Working Paper.
+</div>
+
+<div class="paper-summary">
+This paper studies whether private incentives for household defensible space investments align with socially efficient wildfire mitigation policy.
+</div>
+
+</div> -->
+
+
+
+
+
+## Works in Progress
+
+<div class="paper-card">
+
+<div class="paper-title">
+Private incentives for defensible space misalign with wildfire mitigation policy
+</div>
+
+<div class="paper-meta">
+with Matthew Reimer.
+</div>
+
+</div>
+
+
+<div class="paper-card">
+
+<div class="paper-title">
+Prevent or Suppress? Optimal Fuel Management in Fire-Prone Landscapes
+</div>
+
+<div class="paper-meta">
+with Matthew Wibbenmeyer and David Wear.
+</div>
+
+</div>
+
+
+<div class="paper-card">
+
+<div class="paper-title">
+Balancing Species Protection and Wildfire Risk: Evidence from the Northern Spotted Owl Recovery Plan
+</div>
+
+<div class="paper-meta">
+with Matthew Reimer.
+</div>
+
+</div>
+
+
+<div class="paper-card">
+
+<div class="paper-title">
+Fighting Fire with Fire: Does Clean Air Policy Abate Prescribed Fires?
+</div>
+
+<div class="paper-meta">
+with Jamie Hansen-Lewis.
+</div>
+
+</div>
+
 
 
 <!-- ---
