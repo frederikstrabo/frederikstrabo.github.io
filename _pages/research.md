@@ -77,9 +77,9 @@ summary {
 }
 
 .section-header {
-  font-size: 3.5rem;
+  font-size: 2.5rem;
   font-weight: 700;
-  margin-top: 3rem;
+  margin-top: 2rem;
   margin-bottom: 4rem;
 }
 
