@@ -77,13 +77,15 @@ summary {
 }
 
 .section-header {
-  font-size: 1.8rem;
+  font-size: 3rem;
   font-weight: 700;
   margin-top: 3rem;
   margin-bottom: 2rem;
 }
 
 </style>
+
+
 
 <div class="section-header">Publications</div>
 
@@ -200,7 +202,7 @@ Overextraction and excess capacity are longstanding challenges in natural resour
 </div>
 
 
-<!-- ## Working Papers
+<!-- <div class="section-header">Working Papers</div>
 
 <div class="paper-card">
 
