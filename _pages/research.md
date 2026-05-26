@@ -218,6 +218,9 @@ This paper studies whether private incentives for household defensible space inv
 
 ## Works in Progress
 
+<div style="margin-top: 2.5rem;"></div>
+
+
 <div class="paper-card">
 
 <div class="paper-title">
