@@ -114,8 +114,7 @@ forthcoming, 2026.
 </div>
 
 <div class="paper-links">
-<a href="https://frederikstrabo.github.io/files/Strabo_JMP.pdf">Paper</a>
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5064565">Working Paper</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5064565">Journal Link</a>
 </div>
 
 <div class="paper-summary">
@@ -135,6 +134,34 @@ A century of wildfire suppression policies has led to the build-up of combustibl
 
 </div>
 
+
+
+<div class="paper-card">
+
+<div class="paper-title">
+Who benefits from capacity reduction programs? Insights from the U.S. Pacific Coast groundfish fishery
+</div>
+
+<div class="paper-meta">
+Frederik Strabo, Matthew Reimer, and James Sanchirico.
+<span class="journal-badge">The Journal of Environmental Economics and Management</span>
+forthcoming, 2026.
+</div>
+
+<div class="paper-links">
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5668010">Working Paper</a>
+</div>
+
+<details>
+<summary>Abstract</summary>
+
+<p>
+Overextraction and excess capacity are longstanding challenges in natural resource industries. Capacity-reduction programs are increasingly common policy responses designed to reduce capacity, reallocate access rights, and improve environmental and economic outcomes. Yet little is known about how such programs distribute benefits and costs among participants who remain in the industry. This paper estimates the benefits accruing from the U.S. Pacific Coast Groundfish Buyback Program, which retired over one-third of its vessel capacity through a voluntary $46 million reverse auction. Exploiting spatial variation in capacity reductions across ports within a difference-in-differences design, we find that active vessels operating in ports with larger relative reductions realized substantial revenue gains, while those elsewhere saw small or negligible gains. Conservative estimates suggest the program generated approximately $23.9 million in additional revenues net of variable costs and program fees over the first seven years, yielding approximately $4.66 in private net benefits per dollar of fees paid during this period. However, returns varied widely depending on the degree of local capacity reduction. These findings demonstrate that while capacity reduction programs can yield significant economic gains for remaining industry participants, their uneven impacts raise important questions about program design and the balance between efficiency and equity.
+</p>
+
+</details>
+
+</div>
 
 
 
