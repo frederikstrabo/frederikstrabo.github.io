@@ -182,7 +182,7 @@ forthcoming, 2026.
 </div>
 
 <div class="paper-links">
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5668010">Working Paper</a>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0095069626000823">Paper</a>
 </div>
 
 <div class="paper-summary">
