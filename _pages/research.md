@@ -178,7 +178,7 @@ Who benefits from capacity reduction programs? Insights from the U.S. Pacific Co
 <div class="paper-meta">
 Frederik Strabo, Matthew Reimer, and James Sanchirico.
 <span class="journal-badge">The Journal of Environmental Economics and Management</span>
-forthcoming, 2026.
+139, 103234, 2026
 </div>
 
 <div class="paper-links">
@@ -280,7 +280,17 @@ with Jamie Hansen-Lewis.
 
 </div>
 
+<div class="paper-card">
 
+<div class="paper-title">
+How Environmental Review Shapes the Scale, Cost, and Effectiveness of Wildfire Fuel Treatments
+</div>
+
+<div class="paper-meta">
+with Eric Edwards and Sara Sutherland.
+</div>
+
+</div>
 
 <!-- ---
 permalink: /research/

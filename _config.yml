@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Frederik Strabo"
 title_separator          : "-"
 name                     : &name "Frederik Strabo"
-description              : &description "PhD Student"
+description              : &description "Assistant Professor"
 url                      : https://frederikstrabo.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "frederikstrabo/frederikstrabo.github.io"
@@ -25,15 +25,15 @@ author:
   name             : "Frederik Strabo"
   pronouns         : "he/him"  
   bio              : 
-  location         : "Davis, CA"
-  employer         : "University of California, Davis"
+  location         : "Edmonton, AB"
+  employer         : "University of Alberta"
   uri              : # URL
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : 
+  googlescholar    : https://scholar.google.com/citations?user=qhogWZwAAAAJ&hl=en
   impactstory      : # URL
-  orcid            : 
+  orcid            : https://orcid.org/0009-0009-5036-3911
   semantic         : # URL
   pubmed           : 
   researchgate     : # URL
