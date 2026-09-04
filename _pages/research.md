@@ -218,6 +218,17 @@ Working Paper.
 <a href="https://github.com/eric8767/nepa-wildfire-working-paper/tree/main">Paper</a>
 </div>
 
+
+<div class="paper-card">
+
+<div class="paper-title">
+Fighting Fire with Fire: Does Clean Air Policy Abate Prescribed Fires?
+</div>
+
+<div class="paper-meta">
+with Jamie Hansen-Lewis.
+</div>
+
 </div> 
 
 
@@ -268,26 +279,8 @@ with Matthew Reimer.
 </div>
 
 
-<div class="paper-card">
 
-<div class="paper-title">
-Fighting Fire with Fire: Does Clean Air Policy Abate Prescribed Fires?
-</div>
 
-<div class="paper-meta">
-with Jamie Hansen-Lewis.
-</div>
-
-</div>
-
-<div class="paper-card">
-
-<div class="paper-title">
-How Environmental Review Shapes the Scale, Cost, and Effectiveness of Wildfire Fuel Treatments
-</div>
-
-<div class="paper-meta">
-with Eric Edwards and Sara Sutherland.
 </div>
 
 </div>
