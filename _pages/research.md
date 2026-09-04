@@ -201,7 +201,7 @@ Overextraction and excess capacity are longstanding challenges in natural resour
 </div>
 
 
-<!-- <div class="section-header">Working Papers</div>
+<div class="section-header">Working Papers</div>
 
 <div class="paper-card">
 
@@ -210,15 +210,15 @@ Private incentives for defensible space misalign with wildfire mitigation policy
 </div>
 
 <div class="paper-meta">
-Frederik Strabo and Matthew Reimer.
+Eric Edwards and Sara Sutherland.
 Working Paper.
 </div>
 
-<div class="paper-summary">
-This paper studies whether private incentives for household defensible space investments align with socially efficient wildfire mitigation policy.
+<div class="paper-links">
+<a href="https://github.com/eric8767/nepa-wildfire-working-paper/tree/main">Paper</a>
 </div>
 
-</div> -->
+</div> 
 
 
 
