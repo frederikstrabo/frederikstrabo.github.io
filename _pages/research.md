@@ -206,7 +206,7 @@ Overextraction and excess capacity are longstanding challenges in natural resour
 <div class="paper-card">
 
 <div class="paper-title">
-Private incentives for defensible space misalign with wildfire mitigation policy
+How Environmental Review Shapes the Scale, Cost, and Effectiveness of Wildfire Fuel Treatments
 </div>
 
 <div class="paper-meta">
