@@ -283,10 +283,6 @@ with Matthew Reimer.
 
 
 
-</div>
-
-</div>
-
 <!-- ---
 permalink: /research/
 title: "Research"
