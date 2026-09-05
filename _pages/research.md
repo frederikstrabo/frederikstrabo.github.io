@@ -226,8 +226,6 @@ Working Paper.
 Fighting Fire with Fire: Does Clean Air Policy Abate Prescribed Fires?
 </div>
 
-</div>
-
 <div class="paper-meta">
 with Jamie Hansen-Lewis.
 </div>
