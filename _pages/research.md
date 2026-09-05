@@ -218,6 +218,7 @@ Working Paper.
 <a href="https://github.com/eric8767/nepa-wildfire-working-paper/tree/main">Paper</a>
 </div>
 
+</div> 
 
 <div class="paper-card">
 
@@ -231,7 +232,7 @@ Fighting Fire with Fire: Does Clean Air Policy Abate Prescribed Fires?
 with Jamie Hansen-Lewis.
 </div>
 
-</div> 
+
 
 
 
