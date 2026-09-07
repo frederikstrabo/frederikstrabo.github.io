@@ -277,7 +277,6 @@ Balancing Species Protection and Wildfire Risk: Evidence from the Northern Spott
 with Matthew Reimer.
 </div>
 
-</div>
 
 
 
